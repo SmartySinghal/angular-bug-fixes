@@ -1,5 +1,7 @@
 # 4 Common Angular Bugs – and How to Fix Them
 
+![Screenshot](docs/screenshot.jpg)
+
 An interactive case study. Each bug has a **live "before" (buggy) demo**, a **live "after" (fixed) demo**, the root cause and the exact code change.
 
 **Live demo:** https://angular-bug-fixes.onrender.com
