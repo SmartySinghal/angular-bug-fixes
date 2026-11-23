@@ -2,7 +2,7 @@
 
 An interactive case study. Each bug has a **live "before" (buggy) demo**, a **live "after" (fixed) demo**, the root cause and the exact code change.
 
-**Live demo:** _coming soon_
+**Live demo:** https://angular-bug-fixes.onrender.com
 
 | # | Bug | Root cause | Fix |
 |---|-----|-----------|-----|
